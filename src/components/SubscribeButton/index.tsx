@@ -16,7 +16,7 @@ export function SubscribeButton(){
             signIn('github');
             return;
         }
-        console.log('ok')
+
         try{
             const response = await api.post('/subscribe')
 
@@ -29,7 +29,7 @@ export function SubscribeButton(){
             alert(err.message)
         }
 
-    },[]);
+    },[session]);
 
     return (
         <button

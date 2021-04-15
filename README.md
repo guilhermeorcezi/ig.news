@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="ig.news" width="600" title="#logo" src="./github_assets/banner.png">
+    <img alt="ig.news" width="800" title="#logo" src="./github_assets/banner.png">
     <br>
 </h3>
 <p align="center"> 🚀 <strong>IG News</strong> Simple blog with a month signature for reading posts.
